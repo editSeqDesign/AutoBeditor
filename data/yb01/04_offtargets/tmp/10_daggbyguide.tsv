@@ -1,0 +1,10 @@
+guide: id	guide+PAM sequence	gene names	gene ids	transcript ids	beditor score	CFD score	beditor score (log10)	alternate alignments count
+0_arrow:2069730-2069730+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@20;NG;ACA:ATA;T:I;)	CAAAATATCACCTCCTACTTAG	ligD;nan	nan	nan	0.5903964762786191	0.0	-0.22885624321976805	2
+0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@17;NG;ACA:ATA;T:I;)	ACACATGTTCATCATCCTTTAG	yedK_1;yedK_2	nan	nan	1.0	0.0	0.0	2
+0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@18;NG;ACA:ATA;T:I;)	CACATGTTCATCATCCTTTAGG	yedK_1;yedK_2	nan	nan	1.0	0.0	0.0	2
+0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@19;NG;ACA:ATA;T:I;)	ACATGTTCATCATCCTTTAGGG	yedK_1;yedK_2	nan	nan	1.0	0.0	0.0	2
+0_arrow:2092293-2092293+|Target-AID|+|C:T|CCA:CTA|nucleotide|(Target-AID;+;@18;NG;CCA:CTA;P:L;)	CCCATATTGCCACCTCCTTTAG	nan	nan	nan	0.3320672574963342	0.0	-0.47877394460546185	2
+0_arrow:2878931-2878931+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@16;NG;ACA:ATA;T:I;)	AAAACATCCTGAGAATCCTCAG	nan	nan	nan	1.0	0.0	0.0	1
+0_arrow:2878931-2878931+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@17;NG;ACA:ATA;T:I;)	AAACATCCTGAGAATCCTCAGG	nan	nan	nan	0.07150146211605651	0.0	-1.145685077325593	2
+0_arrow:2878931-2878931+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@20;NG;ACA:ATA;T:I;)	CATCCTGAGAATCCTCAGGATG	nan	nan	nan	1.0	0.0	0.0	1
+0_arrow:1515639-1515639-|Target-AID|+|C:T|CCA:CTA|nucleotide|(Target-AID;+;@19;NG;CCA:CTA;P:L;)	CCATTTTCATCTTCCTTTCTAG	cmpR_1;nan	nan	nan	0.04923468154570306	0.0	-1.3077288667907374	2

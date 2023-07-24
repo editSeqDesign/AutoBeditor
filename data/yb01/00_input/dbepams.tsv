@@ -1,0 +1,3 @@
+	PAM	PAM position	Unnamed: 0	distance of codon start from PAM: maximum	distance of codon start from PAM: minimum	distance of mutation from PAM: maximum	distance of mutation from PAM: minimum	guide length	method	nucleotide	nucleotide mutation	strand	window end	window start
+18	NG	down	18	23	16	20	16	20	Target-AID	C	T	+	4	2
+18	NG	down	18	23	16	20	16	20	Target-AID	G	A	-	4	2

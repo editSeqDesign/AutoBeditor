@@ -1,0 +1,7 @@
+[bwa_aln_core] convert to sequence coordinate... 0.01 sec
+[bwa_aln_core] refine gapped alignments... 0.00 sec
+[bwa_aln_core] print alignments... 0.00 sec
+[bwa_aln_core] 9 sequences have been processed.
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa samse -n 60000 /home/yanghe/githubcode/beditor/super_beditor/pub/GCF_11111/fasta/yb01/dna/genome.fna /home/yanghe/baseEditor/beditor/data/YB01/04_offtargets/tmp/01_guides_guidel22.sa /home/yanghe/baseEditor/beditor/data/YB01/04_offtargets/tmp/01_guides_guidel22.fa
+[main] Real time: 0.012 sec; CPU: 0.010 sec

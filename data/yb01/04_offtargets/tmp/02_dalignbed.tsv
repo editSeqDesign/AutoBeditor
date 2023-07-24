@@ -1,0 +1,17 @@
+	NM	chromosome	end	guide: id	id	start	strand
+0	0	0_arrow	2069751	0_arrow:2069730-2069730+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@20;NG;ACA:ATA;T:I;)	0_arrow|+2069729|22M|0	2069729	+
+1	1	0_arrow	2203593	0_arrow:2069730-2069730+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@20;NG;ACA:ATA;T:I;)	0_arrow|+2203571|22M|1	2203571	+
+2	0	0_arrow	2070492	0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@17;NG;ACA:ATA;T:I;)	0_arrow|+2070470|22M|0	2070470	+
+3	0	0_arrow	2204319	0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@17;NG;ACA:ATA;T:I;)	0_arrow|+2204297|22M|0	2204297	+
+4	0	0_arrow	2204319	0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@18;NG;ACA:ATA;T:I;)	0_arrow|+2204297|22M|0	2204297	+
+5	0	0_arrow	2070494	0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@18;NG;ACA:ATA;T:I;)	0_arrow|+2070472|22M|0	2070472	+
+6	0	0_arrow	2204320	0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@19;NG;ACA:ATA;T:I;)	0_arrow|+2204298|22M|0	2204298	+
+7	0	0_arrow	2070495	0_arrow:2204300-2204300+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@19;NG;ACA:ATA;T:I;)	0_arrow|+2070473|22M|0	2070473	+
+8	0	0_arrow	2878948	0_arrow:2878931-2878931+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@16;NG;ACA:ATA;T:I;)	0_arrow|+2878926|22M|0	2878926	+
+9	0	0_arrow	2878949	0_arrow:2878931-2878931+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@17;NG;ACA:ATA;T:I;)	0_arrow|+2878927|22M|0	2878927	+
+10	2	0_arrow	3196466	0_arrow:2878931-2878931+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@17;NG;ACA:ATA;T:I;)	0_arrow|+3196444|22M|2	3196444	+
+11	0	0_arrow	2878952	0_arrow:2878931-2878931+|Target-AID|+|C:T|ACA:ATA|nucleotide|(Target-AID;+;@20;NG;ACA:ATA;T:I;)	0_arrow|+2878930|22M|0	2878930	+
+12	0	0_arrow	1515640	0_arrow:1515639-1515639-|Target-AID|+|C:T|CCA:CTA|nucleotide|(Target-AID;+;@19;NG;CCA:CTA;P:L;)	0_arrow|-1515618|22M|0	1515618	-
+13	2	0_arrow	2666985	0_arrow:1515639-1515639-|Target-AID|+|C:T|CCA:CTA|nucleotide|(Target-AID;+;@19;NG;CCA:CTA;P:L;)	0_arrow|+2666963|22M|2	2666963	+
+14	0	0_arrow	2092312	0_arrow:2092293-2092293+|Target-AID|+|C:T|CCA:CTA|nucleotide|(Target-AID;+;@18;NG;CCA:CTA;P:L;)	0_arrow|+2092290|22M|0	2092290	+
+15	2	0_arrow	926701	0_arrow:2092293-2092293+|Target-AID|+|C:T|CCA:CTA|nucleotide|(Target-AID;+;@18;NG;CCA:CTA;P:L;)	0_arrow|+926679|22M|2	926679	+

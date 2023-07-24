@@ -1,0 +1,6 @@
+[bwa_aln_core] calculate SA coordinate... 0.00 sec
+[bwa_aln_core] write to the disk... 0.00 sec
+[bwa_aln_core] 9 sequences have been processed.
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa aln -t 1 -o 0 -m 2000000.0000000002 -n 2 -k 2 -N -l 22 /home/yanghe/baseEditor/beditor/pub/GCF001/fasta/yb01/dna/genome.fna /home/yanghe/baseEditor/beditor/data/yb01/04_offtargets/tmp/01_guides_guidel22.fa
+[main] Real time: 0.006 sec; CPU: 0.007 sec
